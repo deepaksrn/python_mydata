@@ -1,3 +1,4 @@
+# Convert you weight from Lbs (pounds) to Kgs (Kilo) or vice-versa
 weight = float(input("Enter your weight : "))
 unit = str(input("(K)g or (L)bs : "))
 if unit == "k" or unit == "K":
